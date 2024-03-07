@@ -1,0 +1,27 @@
+{
+  "name": "taskmaster-tea",
+  "version": "1.0.0",
+  "description": "Welcome to TaskMaster! TaskMaster is a comprehensive task management system designed to help individuals and teams organize, prioritize, and track their tasks effectively. Whether you're a busy professional, a student, or a freelancer, TaskMaster provides the tools and features you need to stay organized and productive. Say goodbye to missed deadlines and hello to efficient task management with TaskMaster!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/dgey31/TaskMaster.git址"
+  },
+  "keywords": [
+  "sample",
+  "npm",
+  "package"
+  ],
+  "author": "dgey31",
+  "license": "MIT",
+  "dependencies": {
+  "lodash": "^4.17.21",
+  "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+  "react": ">=16.8.0",
+  "react-dom": ">=16.8.0"
+  }
+  }
+  
