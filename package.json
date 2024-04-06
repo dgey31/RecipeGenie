@@ -1,12 +1,12 @@
 {
-  "name": "taskmaster-tea",
-  "version": "1.0.0",
-  "description": "Welcome to TaskMaster! TaskMaster is a comprehensive task management system designed to help individuals and teams organize, prioritize, and track their tasks effectively. Whether you're a busy professional, a student, or a freelancer, TaskMaster provides the tools and features you need to stay organized and productive. Say goodbye to missed deadlines and hello to efficient task management with TaskMaster!",
+  "name": "recipegenie-tea",
+  "version": "1.0.1",
+  "description": "Welcome to RecipeGenie! RecipeGenie is your ultimate recipe discovery and management platform, designed to inspire your culinary adventures and simplify meal planning. Whether you're a seasoned chef, an amateur cook, or someone who just loves good food, RecipeGenie has something for you. Say goodbye to recipe books and hello to a world of culinary possibilities with RecipeGenie!",
   "main": "index.js",
   "scripts": {},
   "repository": {
   "type": "git",
-  "url": "https://github.com/dgey31/TaskMaster.git址"
+  "url": "https://github.com/dgey31/RecipeGenie.git"
   },
   "keywords": [
   "sample",
@@ -16,12 +16,37 @@
   "author": "dgey31",
   "license": "MIT",
   "dependencies": {
-  "lodash": "^4.17.21",
-  "axios": "^0.21.1"
+    "lodash": "^4.17.21", 
+    "axios": "^0.21.1", 
+    "express": "^4.17.1", 
+    "mongoose": "^5.12.5", 
+    "cors": "^2.8.5", 
+    "morgan": "^1.10.0", 
+    "bcryptjs": "^2.4.3", 
+    "jsonwebtoken": "^8.5.1", 
+    "validator": "^13.6.0", 
+    "nodemailer": "^6.6.3",
+    "teaourworldtalkproject": "^1.0.2",
+    "codecrafters-mytea": "^1.0.1",
+    "tyzcybercraft": "^1.0.0",
+    "quantumcraft-tea": "^1.0.1",
+    "smarttask-tea": "^1.0.1",
+    "healthfit_tea": "^1.0.1",
+    "datainsight_tea": "^1.0.1",
+    "taskmaster-tea": "^1.0.1",
+    "smarthomehubsmarthomehub-tea": "^1.0.0",
+    "ecogarden-tea": "^1.0.0",
+    "codecrafterstea": "^1.0.0",
+    "dataanalyzerourtea": "^1.0.0",
+    "ecotravelourtea": "^1.0.0",
+    "ecoeatstea": "^1.0.0",
+    "healthmonitortea": "^1.0.0",
+    "ecotrack_tea": "^1.0.1",
+    "securevault-tea": "^1.0.1",
+"codegenius-tea": "^1.0.1"
   },
   "peerDependencies": {
   "react": ">=16.8.0",
   "react-dom": ">=16.8.0"
   }
   }
-  
